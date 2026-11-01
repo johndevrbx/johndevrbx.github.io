@@ -3,6 +3,7 @@
   "intro": "Roblox development, from the first mechanic to the final frame.",
   "services": "Complete boss systems · Combat & skills · Auras & particles · Fully decorated, stylized maps · Exclusive asset packs · Project commissions",
   "payments": "PayPal · Robux · Revenue share, depending on the project",
+  "backgroundVideo": "",
   "socials": [
     {
       "label": "ArtStation",
@@ -25,7 +26,6 @@
       "url": "https://builtbybit.com/members/johndevlp.855853/"
     }
   ],
-  "backgroundVideo": "",
   "showcase": [
     {
       "type": "image",
