@@ -31,6 +31,28 @@
           "caption": "Roof and terrace overview"
         }
       ]
+    },
+    {
+      "title": "Golem Bosses",
+      "category": "systems",
+      "summary": "Boss scripting, modeling, particles & sound by me.",
+      "description": "Golem bosses. Scripting, model, particles and sound created by me.",
+      "cover": "",
+      "link": "",
+      "featured": true,
+      "published": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "/assets/uploads/golem-bosses-main.mp4",
+          "caption": "Main showcase"
+        },
+        {
+          "type": "video",
+          "url": "/assets/uploads/golem-bosses-extra.mp4",
+          "caption": "Additional showcase"
+        }
+      ]
     }
   ]
 }
