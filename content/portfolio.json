@@ -1,3 +1,36 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "title": "Low-Poly Café",
+      "category": "buildings",
+      "summary": "A furnished café with outdoor seating and a warm, low-poly style.",
+      "description": "A low-poly café building with a furnished interior, outdoor seating, striped parasols and an upper terrace.",
+      "cover": "/assets/uploads/low-poly-cafe-exterior.png",
+      "link": "",
+      "featured": true,
+      "published": true,
+      "media": [
+        {
+          "type": "image",
+          "url": "/assets/uploads/low-poly-cafe-exterior.png",
+          "caption": "Exterior and outdoor seating"
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/low-poly-cafe-front.png",
+          "caption": "Front view and terrace"
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/low-poly-cafe-interior.png",
+          "caption": "Furnished café interior"
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/low-poly-cafe-overhead.png",
+          "caption": "Roof and terrace overview"
+        }
+      ]
+    }
+  ]
 }
