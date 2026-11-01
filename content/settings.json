@@ -1,0 +1,46 @@
+{
+  "discord": "johndevlp",
+  "intro": "Roblox development, from the first mechanic to the final frame.",
+  "services": "Complete boss systems · Combat & skills · Auras & particles · Fully decorated, stylized maps · Exclusive asset packs · Project commissions",
+  "payments": "PayPal · Robux · Revenue share, depending on the project",
+  "socials": [
+    {
+      "label": "ArtStation",
+      "url": "https://www.artstation.com/johndevlp"
+    },
+    {
+      "label": "Roblox",
+      "url": "https://www.roblox.com/users/1013556295/profile"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@johndevlp"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/Johndevlp"
+    },
+    {
+      "label": "BuiltByBit — Asset store",
+      "url": "https://builtbybit.com/members/johndevlp.855853/"
+    }
+  ],
+  "backgroundVideo": "",
+  "showcase": [
+    {
+      "type": "image",
+      "url": "",
+      "caption": "Systems & combat"
+    },
+    {
+      "type": "image",
+      "url": "",
+      "caption": "Skills & visual effects"
+    },
+    {
+      "type": "image",
+      "url": "",
+      "caption": "Worlds & animation"
+    }
+  ]
+}
