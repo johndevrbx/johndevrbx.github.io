@@ -213,6 +213,23 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "title": "Auras Small Pack",
+      "category": "vfx",
+      "summary": "",
+      "description": "",
+      "cover": "/assets/uploads/952fa594-df5e-4f63-8d40-39f02b84e946.png",
+      "link": "",
+      "featured": false,
+      "published": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "/assets/uploads/6f069954-ba4f-46a1-92d8-b4c42f19900d.mp4",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
