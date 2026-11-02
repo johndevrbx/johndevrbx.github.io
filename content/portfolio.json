@@ -70,6 +70,43 @@
           "caption": "Skill System showcase"
         }
       ]
+    },
+    {
+      "title": "WildWest Stud Map",
+      "category": "buildings",
+      "summary": "1000x1000 WildWest Stud-Style Map",
+      "description": "",
+      "cover": "/assets/uploads/50c87e84-24d4-4243-8ccd-c648ea4f16ed.png",
+      "link": "",
+      "featured": true,
+      "published": true,
+      "media": [
+        {
+          "type": "image",
+          "url": "/assets/uploads/d3e87e0a-6e12-4d98-845f-5448cdebc1d4.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/61570892-3b77-4bb7-927b-752ba7af091b.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/545505da-e8dd-4c0d-b68d-d9c13ade31d4.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/eed34fd6-bb8c-4bdc-b286-bed5ff6b7ef6.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/248e1e8f-aff9-45f1-9a5e-f7e55a35e632.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
