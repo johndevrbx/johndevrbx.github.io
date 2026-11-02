@@ -230,6 +230,43 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "title": "Simulator Zones Map",
+      "category": "systems",
+      "summary": "A large map for one punch simulator x with several zones",
+      "description": "",
+      "cover": "/assets/uploads/fe0e40e5-98d2-4481-bf86-1ce52404143b.png",
+      "link": "",
+      "featured": false,
+      "published": true,
+      "media": [
+        {
+          "type": "image",
+          "url": "/assets/uploads/5c3d1fc5-5ab5-42e8-82f2-ef956974b5aa.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/bea46ecb-4183-42a0-83b9-1f630a582030.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/1ac13685-ed77-4583-be5d-57c73ec4fdf6.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/893cab17-33de-4924-8627-84b4ba1f487e.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/c8b95ace-282d-4eb9-9438-c9c0bef77ea8.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
