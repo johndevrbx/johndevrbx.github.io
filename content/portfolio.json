@@ -267,6 +267,23 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "title": "Fight Combat Tool Skills",
+      "category": "systems",
+      "summary": "A complete combat system with 3 skills. VFX, SFX, Animation and Scripting, all created by me.",
+      "description": "",
+      "cover": "/assets/uploads/97c5bc8e-27b6-46fa-ba83-7fd685ce63a4.png",
+      "link": "",
+      "featured": false,
+      "published": true,
+      "media": [
+        {
+          "type": "video",
+          "url": "/assets/uploads/cae1781c-6bfa-4816-8fc1-d43a43193f70.mp4",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
