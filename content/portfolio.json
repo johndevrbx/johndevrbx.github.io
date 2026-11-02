@@ -176,6 +176,43 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "title": "City Stud-Style Map",
+      "category": "systems",
+      "summary": "1000x1000 City Stud Map",
+      "description": "",
+      "cover": "/assets/uploads/f090b96d-eb61-4d70-a50e-459c414d356c.png",
+      "link": "",
+      "featured": false,
+      "published": true,
+      "media": [
+        {
+          "type": "image",
+          "url": "/assets/uploads/0cc764b3-63ad-47bc-bdb1-fc9851a56441.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/f2fe745d-7540-429b-a2a4-4de20ebef5cc.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/4972cbe4-3ed6-4258-9fc4-9671e51b6bb1.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/b25baa14-c494-43c1-86b8-29135495ff18.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/9a43f96d-b3a0-4691-873e-e9602f5e19ae.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
