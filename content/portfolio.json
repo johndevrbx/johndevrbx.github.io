@@ -107,6 +107,43 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "title": "Medieval Forest Castle Stud Map",
+      "category": "systems",
+      "summary": "Medieval Forest Castle Stud Large Map",
+      "description": "",
+      "cover": "/assets/uploads/6fb3af26-0d98-42ed-95ed-57c39c7796f6.png",
+      "link": "",
+      "featured": false,
+      "published": true,
+      "media": [
+        {
+          "type": "image",
+          "url": "/assets/uploads/83c470c2-033a-4ddc-9c87-f663cad239dd.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/b82cdfec-7029-4f85-89fd-22058fd077b1.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/d4f7c870-8d37-45d3-8e57-4b275d3d7edd.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/88c58c95-495b-4d25-a772-aa5ff45c43b7.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/3fed28c4-01ea-4575-8734-f1ade63e57ac.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
