@@ -144,6 +144,38 @@
           "caption": ""
         }
       ]
+    },
+    {
+      "title": "Simulator Island Stud Map",
+      "category": "buildings",
+      "summary": "6 Bases simulator stud-style map",
+      "description": "",
+      "cover": "/assets/uploads/2335322a-f7d9-4c71-aa2e-a1ba80a0e8c2.png",
+      "link": "",
+      "featured": false,
+      "published": true,
+      "media": [
+        {
+          "type": "image",
+          "url": "/assets/uploads/097fa269-3bf8-49b5-9edc-1b2bec0c1c24.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/0f09fd99-c2c1-4a21-8d97-e759873e7916.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/77adbed1-c0cd-4eb0-b753-58f2a8d4f4c4.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "url": "/assets/uploads/778a2098-43e3-4df8-8be1-9e2009e8d7d4.png",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
