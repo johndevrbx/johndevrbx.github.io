@@ -57,8 +57,8 @@
     {
       "title": "Skill System",
       "category": "systems",
-      "summary": "Dash, ThunderBolt, FireBall and a Cursed Beam",
-      "description": "Dash, ThunderBolt, FireBall and a Cursed Beam.\nVFX, SFX and Scripting, all created by me.",
+      "summary": "Dash, FireBall, ThunderBolt & Cursed Beam.",
+      "description": "Dash, FireBall, ThunderBolt & Cursed Beam.\nSFX, VFX, animation and scripting created by me.",
       "cover": "/assets/uploads/6bd3864d-1fc4-466e-ba09-9fdbfb052f60.png",
       "link": "",
       "featured": false,
@@ -67,7 +67,7 @@
         {
           "type": "video",
           "url": "/assets/uploads/73fe1378-5907-489e-8d1f-7b43e195b658.mp4",
-          "caption": ""
+          "caption": "Skill System showcase"
         }
       ]
     }
